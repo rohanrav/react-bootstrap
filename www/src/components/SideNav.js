@@ -107,7 +107,7 @@ const gettingStarted = [
   'rtl',
 ];
 
-const layout = ['grid'];
+const layout = ['grid', 'stack'];
 
 const components = [
   'alerts',

@@ -180,6 +180,9 @@ export type { SpinnerProps } from './Spinner';
 export { default as SplitButton } from './SplitButton';
 export type { SplitButtonProps } from './SplitButton';
 
+export { default as Stack } from './Stack';
+export type { StackProps } from './Stack';
+
 export { default as Tab } from './Tab';
 export type { TabProps } from './Tab';
 
